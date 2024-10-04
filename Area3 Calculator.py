@@ -1,5 +1,7 @@
 import time
 
+# I could have programed better but i was lazy, also nocopyright.
+
 def calculateArea3(x,y,z):
    print("\n")
    print("Area3:",x*y*z,"\n")
